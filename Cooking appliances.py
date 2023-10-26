@@ -13,7 +13,7 @@ user_1 = User(
 user_2 = User(
     user_name = "Household with different lunch habit",
     num_users = 1,
-    user_preference = 3, # user_2 has two lunch preferences
+    user_preference = 3, # user_2 has 3 lunch preferences
 )
 
 # soup for lunch
